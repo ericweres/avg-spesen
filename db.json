@@ -1,0 +1,99 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "prename": "Callie",
+      "surname": "Oliver"
+    },
+    {
+      "id": 2,
+      "prename": "Colleen",
+      "surname": "Alford"
+    },
+    {
+      "id": 3,
+      "prename": "Keefe",
+      "surname": "Williams"
+    },
+    {
+      "id": 4,
+      "prename": "Elmo",
+      "surname": "Garza"
+    },
+    {
+      "id": 5,
+      "prename": "Dennis",
+      "surname": "Holloway"
+    },
+    {
+      "id": 6,
+      "prename": "Noel",
+      "surname": "Reyes"
+    },
+    {
+      "id": 7,
+      "prename": "Fatima",
+      "surname": "Diaz"
+    },
+    {
+      "id": 8,
+      "prename": "Max",
+      "surname": "Mustermann"
+    }
+  ],
+  "expense_reports": [
+    {
+      "employee_id": 7,
+      "date": "10.5.2023",
+      "sum": 630.97,
+      "description": "Scrum Workshop"
+    },
+    {
+      "employee_id": 5,
+      "date": "1.2.2023",
+      "sum": 434,
+      "description": "Flight to Israel"
+    },
+    {
+      "employee_id": 4,
+      "date": "11.3.2023",
+      "sum": 23,
+      "description": "Lunch"
+    },
+    {
+      "employee_id": 2,
+      "date": "1.5.2023",
+      "sum": 130.97,
+      "description": "Trip to Köln"
+    },
+    {
+      "employee_id": 1,
+      "date": "12.3.2023",
+      "sum": 234,
+      "description": "Business trip to France"
+    },
+    {
+      "employee_id": 1,
+      "date": "10.5.2023",
+      "sum": 1230.97,
+      "description": "OMR Conference"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 4,
+      "balance": 137,
+      "current_year_expenses": 5
+    },
+    {
+      "id": 1,
+      "balance": 0,
+      "current_year_expenses": 0
+    },
+    {
+      "id": 5,
+      "balance": 434,
+      "current_year_expenses": 1
+    }
+  ]
+}
